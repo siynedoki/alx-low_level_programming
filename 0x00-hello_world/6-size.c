@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 /**
 * main - A c program that prints the size of various computer types
