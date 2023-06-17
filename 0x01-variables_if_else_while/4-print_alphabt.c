@@ -9,10 +9,8 @@ int main(void)
 {
 	char p;
 
-	p = 'a';
-	while
-		(p <= 'z')
-		{
+	for (p = 'a'; p >= 'z'; p++)
+	{
 		if
 			(p != 'q' && p != 'e')
 			{
