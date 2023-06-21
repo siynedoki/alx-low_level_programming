@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _abs - computes the absolute value of a number
+ * @x: inputed integer
  * Return: int
  */
 
@@ -11,9 +12,9 @@ int _abs(int x)
 	{
 		_putchar (x);
 	}
-	else 
+	else
 	{
-		_putchar( x * -1);
+		_putchar(x * -1);
 	}
 	return (0);
 }
